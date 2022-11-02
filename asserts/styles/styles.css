@@ -1,6 +1,6 @@
 body {
-    margin: 0;
-    background-color: #f3c2c2c5;
+  margin: 0;
+  background-color: #f3c2c2c5;
 }
 
 #marriage {
@@ -13,121 +13,124 @@ body {
   justify-content: center;
 }
 
-.header, .invitation {
+.header,
+.invitation {
   color: white;
   font-size: 30px;
 }
 
-#love, #area{
-    color: grey;
-    display: flex;
-    flex-direction: column;
-    align-items: center;
-   min-height: 80vh;
+#love,
+#area {
+  color: grey;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  min-height: 80vh;
 }
 
-#love button{
-    background-color: black;
-    color: white;
-    height: 7vh;
-    width: 9vw;
-    margin: 30px 0;
-    border-radius: 5px;
+#love button {
+  background-color: black;
+  color: white;
+  height: 7vh;
+  width: 9vw;
+  margin: 30px 0;
+  border-radius: 5px;
 }
 
 #love button:hover,
 #end button:hover,
 .nav a:hover {
-    background-color: grey;
+  background-color: grey;
 }
 
-figure{
-    display: block;
-    width: 50vw;
+figure {
+  display: block;
+  width: 50vw;
 }
 
-figcaption{
-    margin-top: 5vh;
-    display: block;
-    width: 100%;
-    line-height: 3vh;
+figcaption {
+  margin-top: 5vh;
+  display: block;
+  width: 100%;
+  line-height: 3vh;
 }
 
 .wedding {
-    display: block;
-    width: 100%;
+  display: block;
+  width: 100%;
+  border-radius: 5px;
 }
 
 #flower {
-    background-image: url(../styles/images/flowers.jpg);
-    display: flex;
-    min-height: 900px;
-    background-size: cover;
-    align-items: center;
-    justify-content: center;
-    text-align: center;
+  background-image: url(../styles/images/flowers.jpg);
+  display: flex;
+  min-height: 900px;
+  background-size: cover;
+  align-items: center;
+  justify-content: center;
+  text-align: center;
 }
 
-.text{
-    display: grid;
-    grid-template-columns: auto auto;
-    gap: 20vw;
+.text {
+  display: grid;
+  grid-template-columns: auto auto;
+  gap: 20vw;
 }
 
-.church{
-    margin: 30px 0;
-    width: 100%;
+.church {
+  margin: 30px 0;
+  width: 100%;
+  border-radius: 5px;
 }
 
-#end{
-    display: flex;
-    flex-direction: column;
-    align-items: center;
-    min-height: 30vh;
-    text-align: center;
-    background-color: #ffc0cbc7;
-    color: grey;
+#end {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  min-height: 30vh;
+  text-align: center;
+  background-color: #ffc0cbc7;
+  color: grey;
 }
 
-#end h1{
-    margin-top: 7vh;
+#end h1 {
+ margin-top: 7vh;
 }
 
-#end button{
-    background-color: #ff0000b4;
-    color: white;
-    height: 7vh;
-    width: 9vw;
-    margin: 30px 0; 
-    font-size: larger;
-    border-radius: 5px;
+#end button {
+  background-color: #ff0000b4;
+  color: white;
+  height: 7vh;
+  width: 9vw;
+  margin: 30px 0;
+  font-size: larger;
+  border-radius: 5px;
 }
 
-footer{
-    background-color: black;
-    color: white;
-    display: flex;
-    text-align: center;
-    align-items: center;
-    justify-content: center;
-    min-height: 10vh;
+footer {
+  background-color: black;
+  color: white;
+  display: flex;
+  text-align: center;
+  align-items: center;
+  justify-content: center;
+  min-height: 10vh;
 }
 
-.nav{
-    display: flex;
-    background-color: #ffffff9d;
-    width: 100%;
-    height: 5vh; align-items: center;
-    justify-content: center;
-    text-align: center;
-    position: fixed;
-    bottom: 0;
+.nav {
+  display: flex;
+  background-color: #ffffff9d;
+  width: 100%;
+  height: 5vh;
+  align-items: center;
+  justify-content: center;
+  text-align: center;
+  position: fixed;
+  bottom: 0;
 }
 
-.nav a{
-    margin: 0 10rem;
-    text-decoration: none;
-    color: black;
+.nav a {
+  margin: 0 10rem;
+  text-decoration: none;
+  color: black;
 }
-
-
