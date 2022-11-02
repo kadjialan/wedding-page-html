@@ -101,4 +101,14 @@ figcaption{
     border-radius: 5px;
 }
 
+footer{
+    background-color: black;
+    color: white;
+    display: flex;
+    text-align: center;
+    align-items: center;
+    justify-content: center;
+    min-height: 10vh;
+}
+
 
