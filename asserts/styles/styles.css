@@ -13,6 +13,11 @@ body {
   justify-content: center;
 }
 
+h1{
+  font-weight: 900;
+  font-size: 70px;
+}
+
 .header,
 .invitation {
   color: white;
@@ -35,6 +40,34 @@ body {
   width: 110px;
   margin: 30px 0;
   border-radius: 5px;
+}
+
+#end button {
+  background-color: #ff0000b4;
+  color: white;
+  height: 60px;
+  width: 110px;
+  margin: 30px 0;
+  font-size: larger;
+  border-radius: 5px;
+}
+
+.nav {
+  display: flex;
+  background-color: #ffffff9d;
+  width: 100%;
+  min-height: 6vh;
+  align-items: center;
+  justify-content: center;
+  text-align: center;
+  position: fixed;
+  bottom: 0;
+}
+
+.nav a {
+  margin: 0 10vw;
+  text-decoration: none;
+  color: black;
 }
 
 #love button:hover,
@@ -60,7 +93,7 @@ figcaption {
 }
 
 #flower {
-  background-image: url(../styles/images/flowers.jpg);
+  background-image: "url(../styles/images/flowers.jpg)";
   display: flex;
   min-height: 900px;
   background-size: cover;
@@ -92,17 +125,7 @@ figcaption {
 }
 
 #end h1 {
- margin-top: 7vh;
-}
-
-#end button {
-  background-color: #ff0000b4;
-  color: white;
-  height: 60px;
-  width: 110px;
-  margin: 30px 0;
-  font-size: larger;
-  border-radius: 5px;
+  margin-top: 7vh;
 }
 
 footer {
@@ -113,24 +136,6 @@ footer {
   align-items: center;
   justify-content: center;
   min-height: 10vh;
-}
-
-.nav {
-  display: flex;
-  background-color: #ffffff9d;
-  width: 100%;
-  min-height: 6vh;
-  align-items: center;
-  justify-content: center;
-  text-align: center;
-  position: fixed;
-  bottom: 0;
-}
-
-.nav a {
-  margin: 0 10vw;
-  text-decoration: none;
-  color: black;
 }
 
 @media screen and (max-width: 768px) {
