@@ -1,10 +1,11 @@
-<h1>WEDDING<h1>
+#WEDDING
 My project is name WEDDING.
 The images in my project are;
-![flowers](./asserts/styles/images/flowers.jpg),
-![wedding_couple](./asserts/styles/images/wedding_couple.jpg),
-![wedding_couple2](./asserts/styles/images/wedding_couple2.jpg),
-![wedding_location](./asserts/styles/images/wedding_location.jpg),
+![flowers](./asserts/styles/images/flowers.jpg)
+![wedding_couple](./asserts/styles/images/wedding_couple.jpg)
+![wedding_couple2](./asserts/styles/images/wedding_couple2.jpg)
+![wedding_location](./asserts/styles/images/wedding_location.jpg)
+
 My project is divided into 2 main parts naimly; the head and the boby
 A)the head contains the meta data of the page, the links and the title.
 B)my body is divided into 4 main constituent;
