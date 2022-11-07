@@ -28,6 +28,12 @@ This page give information about the details of a wedding ceremony
 - $ git clone `$ https://github.com/kadjialan/wedding-page-html` 
 - $ `cd wedding `
 - $ `git checkout feature`
+
+
+## Start App
+
+- run any browser(google chrome, safari)
+
 ### Prerequisites
 
 Knowledge about html and css:
