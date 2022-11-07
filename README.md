@@ -19,14 +19,14 @@ This page give information about the details of a wedding ceremony
 ## Clone project
 
 - To get a local copy up and running follow these simple example steps.
-- Clone this repository with 
+- Clone this repository with
 `https://github.com/kadjialan/wedding-page-html` using your terminal.
 - Change to the project directory by entering: cd wedding in the terminal.
 
 ## Command-line steps
 
-- $ git clone `$ https://github.com/kadjialan/wedding-page-html` 
-- $ `cd wedding `
+- $ git clone `$ https://github.com/kadjialan/wedding-page-html`
+- $ `cd wedding`
 - $ `git checkout feature`
 
 
