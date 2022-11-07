@@ -1,4 +1,4 @@
-# WEDDING
+# Wedding
 
 This project is named wedding.
 
@@ -23,7 +23,7 @@ This page give information about the details of a wedding ceremony
 `https://github.com/kadjialan/wedding-page-html` using your terminal.
 - Change to the project directory by entering: cd wedding in the terminal.
 
-## Command line steps
+## Command-line steps
 
 - $ git clone `$ https://github.com/kadjialan/wedding-page-html` 
 - $ `cd wedding `
@@ -36,7 +36,7 @@ This page give information about the details of a wedding ceremony
 
 ### Prerequisites
 
-Knowledge about html and css:
+Knowledge about HTML and css:
 
 - Basic data structures
 - Arrays
@@ -44,7 +44,7 @@ Knowledge about html and css:
 
 ## Live Site
 
-[Link](https://kadjialan.github.io/wedding-page-html/)
+[Link]( https://kadjialan.github.io/wedding-page-html/)
 
 ## Author
 
@@ -58,7 +58,7 @@ Optional items.
 
 Contributions, issues, and feature requests are welcome!
 
-Feel free to check the [issues page](link to issue page on github).
+Feel free to check the [issues page](link to issue page on GitHub).
 
 ## Show your support
 
