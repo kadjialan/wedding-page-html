@@ -28,16 +28,13 @@ This page give information about the details of a wedding ceremony
 - $ git clone `$ https://github.com/kadjialan/wedding-page-html` 
 - $ `cd wedding `
 - $ `git checkout feature`
+### Prerequisites
 
+Knowledge about html and css:
 
-## Start App
-
-- run `npm install`
-- run `npm start` in your command line
-
-## Test
-
-- run `npm run test` to run test
+- Basic data structures
+- Arrays
+- Functions
 
 ## Live Site
 
