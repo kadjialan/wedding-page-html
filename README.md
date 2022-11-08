@@ -27,20 +27,18 @@ This page give information about the details of a wedding ceremony
 
 - $ git clone `$ https://github.com/kadjialan/wedding-page-html`
 - $ `cd wedding`
-- $ `git checkout feature`
-
 
 ## Start App
 
 - run any browser(google chrome, safari)
 
-### Prerequisites
+## Prerequisites
 
-Knowledge about HTML and css:
+Knowledge about:
 
-- Basic data structures
-- Arrays
-- Functions
+- HTML
+- CSS
+- Google Chrome
 
 ## Live Site
 
@@ -51,8 +49,6 @@ Knowledge about HTML and css:
 👤 **Kadji Alan**
 
 - GitHub: [@kadji alan](https://github.com/kadjialan/)
-
-Optional items.
 
 ## 🤝 Contributing
 
