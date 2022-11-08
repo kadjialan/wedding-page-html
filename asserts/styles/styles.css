@@ -1,0 +1,144 @@
+body {
+  margin: 0;
+  background-color: #f3c2c2c5;
+}
+
+#marriage {
+  background-image: url("../styles/images/wedding_couple.jpg");
+  background-size: cover;
+  min-height: 900px;
+  display: flex;
+  align-items: center;
+  text-align: center;
+  justify-content: center;
+}
+
+.header h1 {
+  font-size: 70px;
+}
+
+.header,
+.invitation {
+  color: white;
+  font-size: 30px;
+}
+
+#love,
+#area {
+  color: grey;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  min-height: 60vh;
+}
+
+#love button {
+  background-color: black;
+  color: white;
+  height: 60px;
+  width: 110px;
+  margin: 30px 0;
+  border-radius: 5px;
+}
+
+#end button {
+  background-color: #ff0000b4;
+  color: white;
+  height: 60px;
+  width: 110px;
+  margin: 30px 0;
+  font-size: larger;
+  border-radius: 5px;
+}
+
+.nav {
+  display: flex;
+  background-color: #ffffff9d;
+  width: 100%;
+  min-height: 6vh;
+  align-items: center;
+  justify-content: center;
+  text-align: center;
+  position: fixed;
+  bottom: 0;
+}
+
+.nav a {
+  margin: 0 10vw;
+  text-decoration: none;
+  color: black;
+}
+
+#love button:hover,
+#end button:hover,
+.nav a:hover {
+  background-color: grey;
+}
+
+figure {
+  width: 50vw;
+}
+
+figcaption {
+  margin-top: 5vh;
+  width: 100%;
+  line-height: 3vh;
+}
+
+.wedding {
+  display: block;
+  width: 100%;
+  border-radius: 5px;
+}
+
+#flower {
+  background-image: url("../styles/images/flowers.jpg");
+  display: flex;
+  min-height: 900px;
+  background-size: cover;
+  align-items: center;
+  justify-content: center;
+  text-align: center;
+}
+
+.text {
+  display: grid;
+  grid-template-columns: auto auto;
+  gap: 20vw;
+}
+
+.church {
+  margin: 30px 0;
+  width: 100%;
+  border-radius: 5px;
+}
+
+#end {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  min-height: 30vh;
+  text-align: center;
+  background-color: #ffc0cbc7;
+  color: grey;
+}
+
+#end h1 {
+  margin-top: 7vh;
+}
+
+footer {
+  background-color: black;
+  color: white;
+  display: flex;
+  text-align: center;
+  align-items: center;
+  justify-content: center;
+  min-height: 10vh;
+}
+
+@media screen and (max-width: 768px) {
+  figure {
+    width: 100%;
+  }
+}
