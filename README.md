@@ -27,6 +27,7 @@ This page give information about the details of a wedding ceremony
 
 - $ git clone `$ https://github.com/kadjialan/wedding-page-html`
 - $ `cd wedding`
+- $ `git checkout feature/readme`
 
 ## Start App
 
@@ -54,7 +55,7 @@ Knowledge about:
 
 Contributions, issues, and feature requests are welcome!
 
-Feel free to check the [issues page](link to issue page on GitHub).
+Feel free to check the [issues page](https://github.com/kadjialan/wedding-page-html/issues).
 
 ## Show your support
 
